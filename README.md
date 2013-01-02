@@ -29,7 +29,7 @@ Todo List
 Pictures
 -----------
 
-![Screenshot](http://www.geardome.com/files/arduinogb/gameboy_read.jpg)
+![Screenshot](http://www.geardome.com/files/arduinogb/gameboy_read.png)
 ![Screenshot](http://www.geardome.com/files/arduinogb/arduino_gameboy_1.jpg)
 ![Screenshot](http://www.geardome.com/files/arduinogb/arduino_gameboy_2.jpg)
 
