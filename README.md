@@ -1,4 +1,4 @@
-ArduinoGameBoy - Arduino Game Boy Cartridge Reader / Writer
+ArduinoGameBoy - Arduino Game Boy Cartridge Dumper
 =======
 <b>Copyright &copy; 2013 by Ignacio Sanchez</b>
 
