@@ -1,6 +1,6 @@
 ArduinoGameBoy - Arduino Game Boy Cartridge Reader / Writer
 =======
-<b>Copyright &copy; 2012 by Ignacio Sanchez</b>
+<b>Copyright &copy; 2013 by Ignacio Sanchez</b>
 
 ----------
 
@@ -28,15 +28,15 @@ Todo List
 Pictures
 -----------
 
-![Screenshot](http://www.geardome.com/files/arduinogb/arduino_gameboy_1.png)
-![Screenshot](http://www.geardome.com/files/arduinogb/arduino_gameboy_1.png)
+![Screenshot](http://www.geardome.com/files/arduinogb/arduino_gameboy_1.jpg)
+![Screenshot](http://www.geardome.com/files/arduinogb/arduino_gameboy_2.jpg)
 
 License
 -------
 
-<i>Gearboy - Nintendo Game Boy Emulator</i>
+<i>ArduinoGameBoy</i>
 
-<i>Copyright (C) 2012  Ignacio Sanchez</i>
+<i>Copyright (C) 2013  Ignacio Sanchez</i>
 
 <i>This program is free software: you can redistribute it and/or modify</i>
 <i>it under the terms of the GNU General Public License as published by</i>
