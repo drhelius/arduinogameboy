@@ -18,7 +18,8 @@ Features
 - Designed for Arduino Mega 2560, but may be easily ported to other Arduinos.
 - SD card reading / writing
 - Auto selection of Memory Bank Controller (MBC1, MBC2, MBC3 and MBC5)
-- Dump cartridge information.
+- Dump cartridge header, ROM and RAM banks to SD.
+- Write RAM from SD back to the cartridge.
 - Log through serial connection.
 - Fritzing design.
 
