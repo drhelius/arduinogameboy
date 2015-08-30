@@ -8,7 +8,7 @@ Arduino based Game Boy cartridge reader and writer.
 
 It can dump ROM and RAM to an SD card.
 
-For any comments or questions I can be reached at: http://twitter.com/drhelius
+Follow me on Twitter: http://twitter.com/drhelius
 
 ----------
 
